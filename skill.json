@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-distributed-tracing-span-telemetry-skill",
+  "version": "1.0.1",
+  "description": "W3C-compliant distributed tracing span generator capturing parent-child agent execution trees and latency bottlenecks.",
+  "category": "Observability",
+  "entrypoint": "mcp_server.py",
+  "dependencies": []
+}
